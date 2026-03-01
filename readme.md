@@ -2,3 +2,4 @@ this python script is for changing your pdf files to dark mode, you need to put 
 to run it do thid command :
 python pdf_darkmode.py --input example.pdf
 
+ps: you can change the size of the new file if you change the dpi
